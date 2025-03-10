@@ -19,3 +19,15 @@ colorSchema: dark
 ---
 src: slides/01-even-voorstellen.md
 ---
+
+---
+src: slides/02-inhoud.md
+---
+
+---
+src: slides/98-tips.md
+---
+
+---
+src: slides/99-leesvoer.md
+---
