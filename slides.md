@@ -25,6 +25,10 @@ src: slides/02-inhoud.md
 ---
 
 ---
+src: slides/03-achtergrond-cicd.md
+---
+
+---
 src: slides/98-tips.md
 ---
 

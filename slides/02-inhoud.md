@@ -6,7 +6,7 @@ figureUrl: img/inhoud/github-to-azure.svg
 # Inhoud
 
 - Introductie:
-  - Waarom CI/CD
+  - Achtergrond CI/CD
   - Azure hosting services
 - Azure resources:
   - Frontend
@@ -14,8 +14,6 @@ figureUrl: img/inhoud/github-to-azure.svg
   - Backend
 - GitHub Actions:
   - Wat is GitHub Actions
-  - Events, jobs en actions
-  - Runners
-- Meenemen:
-  - Tips
-  - Leesvoer
+  - Events, jobs, actions en runners
+  - Zelf uitproberen
+- Tips en leesvoer
