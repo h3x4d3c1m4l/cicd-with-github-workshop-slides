@@ -7,8 +7,8 @@ figureUrl: img/inhoud/github-to-azure.svg
 
 - Introductie:
   - Achtergrond CI/CD
-  - Azure hosting services
-- Azure resources:
+  - Microsoft Azure
+- Azure resources maken:
   - Frontend
   - Database
   - Backend

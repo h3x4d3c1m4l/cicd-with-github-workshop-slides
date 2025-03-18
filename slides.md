@@ -29,6 +29,18 @@ src: slides/03-achtergrond-cicd.md
 ---
 
 ---
+src: slides/04-azure-intro.md
+---
+
+---
+src: slides/05-azure-resources-aanmaken-frontend.md
+---
+
+---
+src: slides/05-azure-resources-aanmaken-backend.md
+---
+
+---
 src: slides/98-tips.md
 ---
 

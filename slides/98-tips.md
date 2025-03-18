@@ -1,4 +1,4 @@
-# Tips
+# Tips - GitHub Actions
 
 - Minuten en opslagruimte zijn beperkt<sup>1</sup>
   - Gebruik geen `macos` runners (10x zo duur)
@@ -15,4 +15,15 @@
   <Footnote :number=2><a href="https://github.com/actions/setup-node" rel="noreferrer" target="_blank">actions/setup-node</a></Footnote>
   <Footnote :number=3><a href="https://github.com/docker/build-push-action" rel="noreferrer" target="_blank">docker/build-push-action</a></Footnote>
   <Footnote :number=4><a href="https://accreditly.io/articles/caching-npm-i-on-github-actions-for-faster-build-times" rel="noreferrer" target="_blank">Caching `npm i` on GitHub Actions for faster build times</a></Footnote>
+</Footnotes>
+
+---
+
+# Tips - Azure
+
+- Let op met oude informatie
+  - Veel veranderd in Azure rondom apps en containers
+
+<Footnotes separator>
+
 </Footnotes>
