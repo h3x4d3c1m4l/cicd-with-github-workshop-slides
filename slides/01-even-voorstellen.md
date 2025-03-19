@@ -13,6 +13,6 @@ figureCaption: Mijn hondje Lola.
 - App Developer @ The Next App
 - Te vinden via:
   - Teams: <a href="https://teams.microsoft.com/l/chat/0/0?users=saithout@hhs.nl" target="_blank">saithout</a>
-  - Email: S.A.intHout@hhs.nl
+  - Email: <a href="mailto:S.A.intHout@hhs.nl">S.A.intHout@hhs.nl</a>
   - GitHub: <a href="https://github.com/h3x4d3c1m4l" target="_blank">@h3x4d3c1m4l</a>
   - LinkedIn: <a href="https://www.linkedin.com/in/sander-in-t-hout/" target="_blank">Sander in 't Hout</a>

@@ -8,10 +8,9 @@ figureUrl: img/inhoud/github-to-azure.svg
 - Introductie:
   - Achtergrond CI/CD
   - Microsoft Azure
-- Azure resources maken:
-  - Frontend
-  - Database
-  - Backend
+- Azure:
+  - Frontend aanmaken
+  - Backend aanmaken
 - GitHub Actions:
   - Wat is GitHub Actions
   - Events, jobs, actions en runners

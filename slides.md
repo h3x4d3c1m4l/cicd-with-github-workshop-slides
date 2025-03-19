@@ -29,7 +29,7 @@ src: slides/03-achtergrond-cicd.md
 ---
 
 ---
-src: slides/04-azure-intro.md
+src: slides/04-achtergrond-azure.md
 ---
 
 ---
@@ -37,7 +37,15 @@ src: slides/05-azure-resources-aanmaken-frontend.md
 ---
 
 ---
-src: slides/05-azure-resources-aanmaken-backend.md
+src: slides/06-azure-resources-aanmaken-backend.md
+---
+
+---
+src: slides/07-github-actions.md
+---
+
+---
+src: slides/08-workshop.md
 ---
 
 ---
