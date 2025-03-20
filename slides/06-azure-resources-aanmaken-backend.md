@@ -85,6 +85,5 @@ transition: fade
 ## Backend
 
 - Publish Profile nodig voor GH Actions
-  - Bewaar hem ergens, behandel als wachtwoord
 
 ![alt text](/img/azure-resources-aanmaken/backend-publish-profile.png)

@@ -1,5 +1,6 @@
 ---
 layout: figure-side
+transition: fade
 figureUrl: img/azure-intro/azure-services.webp
 figureCaption: Een greep uit de hostingservices van Azure.
 figureFootnoteNumber: 1

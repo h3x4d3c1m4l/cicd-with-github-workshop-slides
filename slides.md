@@ -12,6 +12,15 @@ transition: slide-left
 colorSchema: dark
 ---
 
+<style>
+.slidev-code {
+  --slidev-code-font-size: 10px;
+  --slidev-code-line-height: 16px;
+  font-size: var(--slidev-code-font-size) !important;
+  line-height: var(--slidev-code-line-height) !important;
+}
+</style>
+
 # CI/CD met GitHub
 
 ## <lucide-git-branch /> Een intro in deployen met GitHub Actions naar Azure
@@ -41,7 +50,11 @@ src: slides/06-azure-resources-aanmaken-backend.md
 ---
 
 ---
-src: slides/07-github-actions.md
+src: slides/07-01-github-actions.md
+---
+
+---
+src: slides/07-02-github-secrets.md
 ---
 
 ---

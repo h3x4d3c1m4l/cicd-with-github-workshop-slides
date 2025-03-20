@@ -61,6 +61,5 @@ transition: fade
 ## Frontend
 
 - Deployment Token nodig voor GH Actions
-  - Bewaar hem ergens, behandel als wachtwoord
 
 ![alt text](/img/azure-resources-aanmaken/frontend-deployment-token.png)

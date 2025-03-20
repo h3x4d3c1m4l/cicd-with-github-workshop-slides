@@ -1,7 +1,7 @@
 ---
 layout: figure-side
 figureUrl: img/even-voorstellen/Lola.jpg
-figureCaption: Mijn hondje Lola.
+figureCaption: Lola 🐾
 ---
 
 # Even voorstellen

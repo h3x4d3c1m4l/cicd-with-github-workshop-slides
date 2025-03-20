@@ -12,7 +12,8 @@ figureUrl: img/inhoud/github-to-azure.svg
   - Frontend aanmaken
   - Backend aanmaken
 - GitHub Actions:
-  - Wat is GitHub Actions
-  - Events, jobs, actions en runners
-  - Zelf uitproberen
+  - Wie, wat, waar?
+  - Workflows (met triggers, jobs en steps)
+  - Secrets aanmaken
+- Zelf aan de slag
 - Tips en leesvoer

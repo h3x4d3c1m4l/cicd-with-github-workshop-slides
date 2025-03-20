@@ -1,5 +1,6 @@
 ---
 layout: figure-side
+transition: fade
 figureUrl: img/achtergrond-cicd/boeing.png
 figureCaption: Software update-paneel van een Boeing 747-400.
 figureFootnoteNumber: 1
@@ -9,15 +10,15 @@ figureFootnoteNumber: 1
 
 ## Vroeger
 
+- Software vaak voor desktop i.p.v. web
 - Geen cloud, geen GitHub, geen CI/CD
 - Prod. builds handwerk op on-premise infra
-- Software vaak voor desktop i.p.v. web
 - Distributie:
   - Floppies, CD's, USB-sticks op de post
   - Via ZIP-bestanden op fileshares of via FTP
 - Gevolg:
-  - Veel eigen infra nodig (servers, NAS'en)
-  - Veel handwerk met hoge kosten
+  - Veel eigen infra (servers, NAS'en)
+  - Veel handwerk, hoge kosten
   - Extra installatiewerk voor systeembeheerders
 
 <Footnotes separator>
@@ -26,6 +27,7 @@ figureFootnoteNumber: 1
 
 ---
 layout: figure-side
+transition: fade
 figureUrl: img/achtergrond-cicd/desktop-app-to-cloud.svg
 figureFootnoteNumber: 1
 ---
@@ -37,6 +39,7 @@ figureFootnoteNumber: 1
 - Opkomst van de cloud
   - Servers op aanvraag beschikbaar
   - Minder on-premise, minder serverbeheer
+  - Gebruik van standaardoplossingen
 - Centraal, beter en sneller versiebeheer
   - Branches, PR's en code-reviews
 - Van desktop naar web
@@ -51,6 +54,7 @@ figureFootnoteNumber: 1
 
 ---
 layout: figure-side
+transition: fade
 figureUrl: img/achtergrond-cicd/devops-lifecycle.png
 figureCaption: De DevOps lifecycle, waar CI/CD een onderdeel van is.
 figureFootnoteNumber: 1
