@@ -8,8 +8,8 @@ figureUrl: img/azure-resources-aanmaken/frontend-basics.png
 
 ## Frontend
 
-- Uitgangspunt: Statische React web app
-  - Geen server rendering (NextJS)
+- Uitgangspunt: React web app
+  - Zonder SSR (bijv. NextJS)
 - Stappen voor het aanmaken:
   - Open [Create Static Web App](https://portal.azure.com/#create/Microsoft.StaticApp)
   - Kies de bestaande *Subscription*

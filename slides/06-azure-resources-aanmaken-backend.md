@@ -8,7 +8,7 @@ figureUrl: img/azure-resources-aanmaken/backend-basics.png
 
 ## Backend
 
-- Uitgangspunt: NodeJS backend
+- Uitgangspunt: Express(.js) backend
 - Stappen voor het aanmaken:
   - Open [Create Web App](https://portal.azure.com/#create/Microsoft.WebSite)
   - Kies de bestaande *Subscription*
