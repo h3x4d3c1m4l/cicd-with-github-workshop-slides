@@ -6,7 +6,7 @@ figureUrl: img/inhoud/github-to-azure.svg
 # Inhoud
 
 - Introductie:
-  - Achtergrond CI/CD
+  - DevOps
   - Microsoft Azure
 - Azure:
   - Frontend aanmaken

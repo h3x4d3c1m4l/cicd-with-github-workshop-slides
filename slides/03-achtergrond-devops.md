@@ -1,25 +1,26 @@
 ---
 layout: figure-side
 transition: fade
-figureUrl: img/achtergrond-cicd/boeing.png
+figureUrl: img/achtergrond-devops/boeing.png
 figureCaption: Software update-paneel van een Boeing 747-400.
 figureFootnoteNumber: 1
 ---
 
-# Achtergrond CI/CD
+# Achtergrond DevOps
 
-## Vroeger
+## Vroeger (< 2010)
 
-- Software vaak voor desktop i.p.v. web
-- Geen cloud, geen GitHub, geen CI/CD
-- Prod. builds handwerk op on-premise infra
-- Distributie:
-  - Floppies, CD's, USB-sticks op de post
-  - Via ZIP-bestanden op fileshares of via FTP
-- Gevolg:
-  - Veel eigen infra (servers, NAS'en)
-  - Veel handwerk, hoge kosten
-  - Extra installatiewerk voor systeembeheerders
+- Vakgebied SE in ontwikkeling
+- Dealen o.a. met:
+  - Web in kinderschoenen (vb. geen HTML5)
+  - Geen cloud, internet nog relatief traag
+- Gevolgen voor development:
+  - Apps waren voornamelijk voor desktop
+  - Releases werden handmatig gedaan
+  - Softwaredistributie via diskette, CD, USB
+- Gevolgen voor eindgebruikers:
+  - Inconsistentie, fouten in software
+  - Veel tijd tussen releases
 
 <Footnotes separator>
   <Footnote :number=1>Beeld afkomstig uit video: <a href="https://www.youtube.com/watch?v=yq8wgJO-JXY" rel="noreferrer" target="_blank">DEF CON 28 Aerospace Village: 747-400 Walk through From a Hacker’s Perspective</a></Footnote>
@@ -28,25 +29,24 @@ figureFootnoteNumber: 1
 ---
 layout: figure-side
 transition: fade
-figureUrl: img/achtergrond-cicd/desktop-app-to-cloud.svg
+figureUrl: img/achtergrond-devops/desktop-app-to-cloud.svg
 figureFootnoteNumber: 1
 ---
 
-# Achtergrond CI/CD
+# Achtergrond DevOps
 
 ## Ontwikkelingen
 
-- Opkomst van de cloud
-  - Servers op aanvraag beschikbaar
-  - Minder on-premise, minder serverbeheer
-  - Gebruik van standaardoplossingen
-- Centraal, beter en sneller versiebeheer
-  - Branches, PR's en code-reviews
-- Van desktop naar web
-  - Andere manier van distributie
-  - Geen installatiestappen meer
-    - Altijd de laatste versie in je webbrowser
-  - Gevolg: Minder systeembeheer nodig
+- Vraag naar verbetering:
+  - Vaker kunnen releasen
+  - Releasen met minder fouten
+- Probleem:
+  - Gat tussen development en operations
+- Gelukkig:
+  - Webtechniek ontwikkelde verder
+  - Internet steeds sneller en stabieler
+  - Beter, sneller en centraal versiebeheer
+  - Ontstaan cloudplatforms
 
 <Footnotes separator>
   <Footnote :number=1>Afbeeldingen: <a href="https://learn.microsoft.com/en-us/sql/sql-server/azure-arc/view-databases?view=sql-server-ver16" rel="noreferrer" target="_blank">Microsoft Learn - SQL</a> en  <a href="https://winworldpc.com/screenshot/c3aa3c4c-561b-c385-11c3-a4e284a2c3a5" rel="noreferrer" target="_blank">WinWorld - Screenshots for Microsoft Office XP</a></Footnote>
@@ -55,14 +55,14 @@ figureFootnoteNumber: 1
 ---
 layout: figure-side
 transition: fade
-figureUrl: img/achtergrond-cicd/devops-lifecycle.png
+figureUrl: img/achtergrond-devops/devops-lifecycle.png
 figureCaption: De DevOps lifecycle, waar CI/CD een onderdeel van is.
 figureFootnoteNumber: 1
 ---
 
-# Achtergrond CI/CD
+# Achtergrond DevOps
 
-## Huidige situatie
+## Huidige situatie (> 2015)
 
 - Verschuiving in rollen en taken
   - Ontwikkelaars beheren nu vaak infra
@@ -83,12 +83,12 @@ figureFootnoteNumber: 1
 
 ---
 layout: figure
-figureUrl: img/achtergrond-cicd/cicd-workflow.png
+figureUrl: img/achtergrond-devops/cicd-workflow.png
 figureCaption: CI/CD workflow volgens GitLab.
 figureFootnoteNumber: 1
 ---
 
-# Achtergrond CI/CD
+# Achtergrond DevOps
 
 <Footnotes separator>
   <Footnote :number=1>Afbeelding: <a href="https://docs.gitlab.co.jp/ee/ci/introduction/" rel="noreferrer" target="_blank">GitLab - CI/CD concepts</a></Footnote>
