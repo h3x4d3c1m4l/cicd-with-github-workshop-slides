@@ -16,7 +16,7 @@ figureFootnoteNumber: 1
   - Geen cloud, internet nog relatief traag
 - Gevolgen voor development:
   - Apps waren voornamelijk voor desktop
-  - Releases werden handmatig gedaan
+  - Releases handmatig gedaan
   - Softwaredistributie via diskette, CD, USB
 - Gevolgen voor eindgebruikers:
   - Inconsistentie, fouten in software
@@ -42,11 +42,13 @@ figureFootnoteNumber: 1
   - Releasen met minder fouten
 - Probleem:
   - Gat tussen development en operations
+    - 'dev' afhankelijk van 'ops'
 - Gelukkig:
   - Webtechniek ontwikkelde verder
-  - Internet steeds sneller en stabieler
   - Beter, sneller en centraal versiebeheer
-  - Ontstaan cloudplatforms
+- Oplossing:
+  - 'dev' samenvoegen met 'ops'
+  - Ontwikkeling workflow platforms
 
 <Footnotes separator>
   <Footnote :number=1>Afbeeldingen: <a href="https://learn.microsoft.com/en-us/sql/sql-server/azure-arc/view-databases?view=sql-server-ver16" rel="noreferrer" target="_blank">Microsoft Learn - SQL</a> en  <a href="https://winworldpc.com/screenshot/c3aa3c4c-561b-c385-11c3-a4e284a2c3a5" rel="noreferrer" target="_blank">WinWorld - Screenshots for Microsoft Office XP</a></Footnote>
@@ -64,12 +66,11 @@ figureFootnoteNumber: 1
 
 ## Huidige situatie (> 2015)
 
-- Verschuiving in rollen en taken
-  - Ontwikkelaars beheren nu vaak infra
-    - Servers, services, databases
-- Build, release en deploy vaak automatisch
-  - Gebruik van workflow automation
-  - GitHub Actions, GitLab CI/CD, etc.
+- DevOps: Samenvoeging 'dev' en 'ops'
+  - Devs beheren vaker infra
+  - Devs verantwoordelijk voor releases
+    - Workflow automatisering
+      - GitHub Actions, GitLab CI/CD, etc.
 - Voordelen:
   - Bespaart veel handmatig werk
     - Helpt consistentie waarborgen
